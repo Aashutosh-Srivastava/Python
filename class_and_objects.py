@@ -6,7 +6,7 @@ class Person:
         self.occ = occ
     def hello(self):
         print(f"my name is {self.name} and my occupation is {self.occ}")
-
+# this is a commet
 
 class Family(Person):
 
